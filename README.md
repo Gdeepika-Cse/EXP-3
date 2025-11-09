@@ -6,8 +6,11 @@ To develop a smart contract that tracks the supply chain of luxury goods, ensuri
 
 # Algorithm:
 The manufacturer records product creation details on-chain.
+
 The product moves through different supply chain checkpoints.
+
 The ownership of the product can be transferred securely.
+
 Buyers can verify the product’s authenticity.
 
 # Program:
@@ -47,12 +50,16 @@ contract LuxurySupplyChain {
 ```
 # Expected Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
+
 Ownership is transferred at every checkpoint.
+
 Buyers can check the authenticity before purchasing.
+
 <img width="1912" height="1091" alt="Screenshot 2025-10-23 140725" src="https://github.com/user-attachments/assets/ecf8344c-096d-4c5d-b41f-d0db4804a9cd" />
 
 # High-Level Overview:
 Helps prevent counterfeit luxury goods.
+
 Teaches real-world supply chain use cases.
 
 # RESULT : 
